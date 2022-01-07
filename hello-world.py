@@ -1,1 +1,1 @@
-print("hello word from jenkins hub")
+print("hello word from jenkins job")
